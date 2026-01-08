@@ -1,0 +1,13 @@
+Modality,Task,Model,Accuracy
+MRI,Binary,Handcrafted + SVM,0.5475113122171946
+MRI,Binary,ResNet18 + SVM (Best),0.997737556561086
+MRI,Multiclass,Handcrafted + SVM,0.6040723981900452
+MRI,Multiclass,ResNet18 + SVM (Best),0.9751131221719457
+CT,Binary,Handcrafted + SVM,0.5021645021645021
+CT,Binary,ResNet18 + SVM (Best),0.9696969696969697
+CT,Multiclass,Handcrafted + SVM,0.512987012987013
+CT,Multiclass,ResNet18 + SVM (Best),0.9372294372294372
+PET,Binary,Handcrafted + SVM,0.6666666666666666
+PET,Binary,ResNet18 + SVM (Best),1.0
+PET,Multiclass,Handcrafted + SVM,0.5555555555555556
+PET,Multiclass,ResNet18 + SVM (Best),1.0
