@@ -1,0 +1,11 @@
+{
+  "binary": [
+    "Healthy",
+    "Tumor"
+  ],
+  "multiclass": [
+    "Glioma",
+    "Meningioma",
+    "Pituitary"
+  ]
+}
